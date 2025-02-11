@@ -12,6 +12,12 @@ A rendition of the VAXstation 2000 mainboard. Open using draw.io.
 
 A drawing of the PSU connector on the VAXstation 2000 mainboard.
 
+== house ==
+
+=== Garage-Cupboards-Above-Workbench-with-labels.svg ===
+
+A labelled drawing of cupboards above the workbench.s
+
 == library ==
 
 === Computers.xml ===
