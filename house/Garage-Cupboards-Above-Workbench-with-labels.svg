@@ -1,0 +1,52 @@
+<svg width="2000.5mm" height="1105.05mm" viewBox="0 0 2000.5 1105.05" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background (100mm extra on all four sides) -->
+  <rect x="0" y="0" width="2000.5" height="1105.05" fill="white"/>
+  
+  <!-- First Cupboard (Left, Top) -->
+  <rect x="100" y="100" width="20" height="605" fill="#E3B778"/>
+  <rect x="980" y="100" width="20" height="605" fill="#E3B778"/>
+  <rect x="100" y="100" width="900" height="20" fill="#E3B778"/>
+  <rect x="100" y="685" width="900" height="20" fill="#E3B778"/>
+  <rect x="120" y="235" width="860" height="20" fill="#E3B778"/>
+  <rect x="120" y="450" width="860" height="20" fill="#E3B778"/>
+
+  <!-- Second Cupboard (Right, Top) -->
+  <rect x="1000.5" y="100" width="20" height="605" fill="#E3B778"/>
+  <rect x="1880.5" y="100" width="20" height="605" fill="#E3B778"/>
+  <rect x="1000.5" y="100" width="900" height="20" fill="#E3B778"/>
+  <rect x="1000.5" y="685" width="900" height="20" fill="#E3B778"/>
+  <rect x="1020.5" y="235" width="860" height="20" fill="#E3B778"/>
+  <rect x="1020.5" y="450" width="860" height="20" fill="#E3B778"/>
+
+  <!-- Bottom Cupboard (Left) -->
+  <rect x="100" y="705.05" width="20" height="300" fill="#E3B778"/>
+  <rect x="680" y="705.05" width="20" height="300" fill="#E3B778"/>
+  <rect x="100" y="705.05" width="600" height="20" fill="#E3B778"/>
+  <rect x="100" y="985.05" width="600" height="20" fill="#E3B778"/>
+  
+  <!-- Bottom Cupboard (Right, next to Left) -->
+  <rect x="700.05" y="705.05" width="20" height="300" fill="#E3B778"/>
+  <rect x="1280.05" y="705.05" width="20" height="300" fill="#E3B778"/>
+  <rect x="700.05" y="705.05" width="600" height="20" fill="#E3B778"/>
+  <rect x="700.05" y="985.05" width="600" height="20" fill="#E3B778"/>
+
+  <!-- Labels for each section -->
+  <text x="550" y="190.83" font-size="40" text-anchor="middle" fill="black">Shelf A</text>
+  <text x="550" y="365.83" font-size="40" text-anchor="middle" fill="black">Shelf C</text>
+  <text x="550" y="590.83" font-size="40" text-anchor="middle" fill="black">Shelf E</text>
+  
+  <text x="1450" y="190.83" font-size="40" text-anchor="middle" fill="black">Shelf B</text>
+  <text x="1450" y="365.83" font-size="40" text-anchor="middle" fill="black">Shelf D</text>
+  <text x="1450" y="590.83" font-size="40" text-anchor="middle" fill="black">Shelf F</text>
+  
+  <text x="400" y="868.38" font-size="40" text-anchor="middle" fill="black">Shelf G</text>
+  <text x="1000" y="868.38" font-size="40" text-anchor="middle" fill="black">Shelf H</text>
+
+
+  <!-- Guide lines for vertical alignment (1mm thick) -->
+  <!-- <line x1="100" x2="1880.5" y1="177.5" y2="177.5" stroke="black" stroke-width="1"/> -->
+  <!-- <line x1="100" x2="1880.5" y1="352.5" y2="352.5" stroke="black" stroke-width="1"/> -->
+  <!-- <line x1="100" x2="1880.5" y1="577.5" y2="577.5" stroke="black" stroke-width="1"/> -->
+  <!-- <line x1="100" x2="1280.05" y1="855.05" y2="855.05" stroke="black" stroke-width="1"/> -->
+</svg>
+
